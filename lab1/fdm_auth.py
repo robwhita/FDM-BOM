@@ -7,7 +7,7 @@ from requests.packages.urllib3.exceptions import InsecureRequestWarning
 
 host='Your_IP'
 username='admin'
-password='Your_Pass'
+password='Your_pass'
 api_version='6'
 
 headers = {
